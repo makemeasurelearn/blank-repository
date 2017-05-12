@@ -1,7 +1,7 @@
 ## Read Me
 
 ## Contents
-#### [About](#about-rewind)
+### [About](#about-rewind)
 ##### [Who](#who-rewind)
 ##### [What](#what-rewind)
 ##### [Where](#where-rewind)
