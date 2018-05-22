@@ -1,32 +1,42 @@
-## Read Me
+# Read Me
 
-## Contents
-### [About](#about-rewind)
-##### [Who](#who-rewind)
-##### [What](#what-rewind)
-##### [Where](#where-rewind)
-##### [Why](#why-rewind)
-### [Notes](#notes-rewind)
-##### [Note 1](#note-1-rewind)
-##### [Note 2](#note-2-rewind)
-### [Appendix](#appendix-rewind)
-##### [.gitattributes](#gitattributes-rewind)
-##### [.gitignore](#gitignore-rewind)
-##### [.exclude](#exclude-rewind)
-________________________________________________________________________________
+## Contents                                                                                                            
+##### [About](#about-rewind) | [Who](#who-rewind) | [What](#what-rewind) | [Where](#where-rewind) | [Why](#why-rewind)
+
+#### [Notes](#notes-rewind)
+
+##### [Note 1](#note-1-rewind) | [Note 2](#note-2-rewind)
+
+#### [Appendix](#appendix-rewind)                                                                                      
+##### [.gitattributes](#gitattributes-rewind) | [.gitignore](#gitignore-rewind) | [.exclude](#exclude-rewind)
+
+### [Credits](#credits-rewind)
+-----------------------------------------------------------------------------------------------------------------------
 ## About [:rewind:](#read-me)
+
+This is a starter repo ...
 
 ### Who [:rewind:](#read-me)
 
+Your Mom.
 
 ### What [:rewind:](#read-me)
 
+Blank repo.
+The plan:
+- [x]
+- [ ]
+  - [ ]
+  - [ ]
+- [ ]
 
 ### Where [:rewind:](#read-me)
 
+Blank
 
 ### Why [:rewind:](#read-me)
 
+Blank
 
 ________________________________________________________________________________
 ## Notes [:rewind:](#read-me)
@@ -57,3 +67,12 @@ https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Rep
 
 
 ### .exclude [:rewind:](#read-me)
+
+________________________________________________________________________________
+
+### Credits [:rewind:](#read-me)
+
+Third party resources applied in this repo. Each resource uses a GPL compatible license. The resources are listed according to each individual license, as noted, and have links where applicable.
+
+*
+  *
