@@ -22,8 +22,8 @@ Your Mom.
 
 ### What [:rewind:](#read-me)
 
-Blank repo.
-The plan:
+Blank repo
+The plan
 - [x]
 - [ ]
   - [ ]
