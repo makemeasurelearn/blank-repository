@@ -14,21 +14,21 @@
 -----------------------------------------------------------------------------------------------------------------------
 ## About [:rewind:](#read-me)
 
-This is a starter repo ...
+This is a starter repo.
 
 ### Who [:rewind:](#read-me)
 
-Your Mom.
+Your Mom's blank repo.
 
 ### What [:rewind:](#read-me)
 
-Blank repo
-The plan
-- [x]
-- [ ]
-  - [ ]
-  - [ ]
-- [ ]
+Blank repo.
+
+- [x] A
+- [ ] B
+  - [ ] C
+  - [ ] D
+- [ ] E
 
 ### Where [:rewind:](#read-me)
 
