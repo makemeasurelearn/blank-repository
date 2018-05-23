@@ -1,7 +1,7 @@
 # Read Me
 
 ## Contents                                                                                                            
-##### [About](#about-rewind) | [Who](#who-rewind) | [What](#what-rewind) | [Where](#where-rewind) | [Why](#why-rewind)
+##### [About](#about-rewind) | [Who](#who-rewind) | [What](#what-rewind) | [Where](#where-rewind) | [Why](#why-rewind) | [How](#how-rewind)
 
 #### [Notes](#notes-rewind)
 
@@ -37,6 +37,8 @@ Blank
 ### Why [:rewind:](#read-me)
 
 Blank
+
+### How [:rewind:](#read-me)
 
 ________________________________________________________________________________
 ## Notes [:rewind:](#read-me)
