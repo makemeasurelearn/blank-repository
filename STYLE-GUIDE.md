@@ -8,7 +8,7 @@
 
 ## 1 About
 
-This document is based on the [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html) and others, as cited. The purpose of this document is to define the format and style for HTML and CSS. The syntax of this document is [https://help.github.com/articles/basic-writing-and-formatting-syntax](GitHub Flavored Markdown) (GFM), licensed under [https://creativecommons.org/licenses/by-sa/4.0](Attribution-ShareAlike 4.0 International) and has been validated by [https://atom.io/packages/linter-markdown](linter-markdown) 5.2.2.
+This document is based on the [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html) and others, as cited. The purpose of this document is to define the format and style for HTML and CSS. The syntax of this document is (GitHub Flavored Markdown)[https://help.github.com/articles/basic-writing-and-formatting-syntax] (GFM), licensed under (Attribution-ShareAlike 4.0 International)[https://creativecommons.org/licenses/by-sa/4.0] and has been validated by [https://atom.io/packages/linter-markdown](linter-markdown) 5.2.2.
 
 ## 2 General
 -   ### 2.1 General Style
