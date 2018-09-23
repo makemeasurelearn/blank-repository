@@ -16,7 +16,7 @@
 -   ### 2.2 General Format
     -   #### 2.2.1 Indentation
     -   Two spaces per `tab`
-    -   Use [https://atom.io/packages/atom-beautify](Atom-Beautify) to format
+    -   Use [Atom-Beautify](https://atom.io/packages/atom-beautify) to format
     -   #### 2.2.2 Capitalization
     -   Use only lowercase unless `text/CDATA`
     -   #### 2.2.3 Trailing whitespace
@@ -37,7 +37,7 @@
     -   HTML5 (HTML syntax) is preferred for all HTML documents: `<!DOCTYPE html>`
     -   #### 3.1.2 HTML Validity
     -   Use valid HTML where possible.
-    -   [https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity](Example)
+    -   [Example](https://google.github.io/styleguide/htmlcssguide.html#HTML_Validity)
     -   #### 3.1.3 Semantics
     -   Use HTML according to its purpose.
     -   Use elements (sometimes incorrectly called “tags”) for what they have been created for. For example, use heading elements for headings, p elements for paragraphs, a elements for anchors, etc.
@@ -54,7 +54,7 @@
     -   The only exceptions apply to characters with special meaning in HTML (like `<` and `&`) as well as control or “invisible” characters (like no-break spaces).
     -   #### 3.1.7 Optional Tags (subjective)
     -   Omit optional tags (optional) BUT PLAY WELL WITH OTHERS.
-    -   For file size optimization and scannability purposes, consider omitting optional tags. The [https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission](HTML5 specification) defines what tags can be omitted.
+    -   For file size optimization and scannability purposes, consider omitting optional tags. The [HTML5 specification](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission) defines what tags can be omitted.
     -   #### 3.1.8 `type` Attributes
     -   Do not use `type` attributes for style sheets (unless not using CSS) and scripts (unless not using JavaScript).
     -   Specifying `type` attributes in these contexts is not necessary as HTML5 implies `text/css` and `text/javascript` as defaults.
