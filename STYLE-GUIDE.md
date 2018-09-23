@@ -1,10 +1,10 @@
 # Style Guide
 
 ## Contents
-_______________________________________________________________________________
 
-##### [1 About](#about) | [2 General](#general) | [3 HTML](#html) | [4 CSS](#css) | [5 Notes](#notes)
-_______________________________________________________________________________
+
+##### [About](#1%20about) | [General](#general) | [HTML](#html) | [CSS](#css) | [Notes](#notes)
+
 
 ## 1 About
 
