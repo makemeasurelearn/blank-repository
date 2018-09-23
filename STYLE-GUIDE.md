@@ -137,6 +137,13 @@
     -   `}`
     -   #### 4.2.8 Quotation Marks
     -   Single not double
+    -   #### 4.2.9 [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
+
+| header | header | header | header | header | header |
+|--------|--------|--------|--------|--------|--------|
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+
 -   ### 4.3 CSS Meta
     -   #### 4.3.1 Section Comments
     -   Group sections by a section comment (optional).
