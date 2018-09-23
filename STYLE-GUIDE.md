@@ -1,4 +1,4 @@
-# Style Guide
+# [Style Guide](https://github.com/otherness-space/blank-repository/blob/master/STYLE-GUIDE.md#style-guide)
 
 ## Contents
 
