@@ -59,11 +59,67 @@
     -   Do not use `type` attributes for style sheets (unless not using CSS) and scripts (unless not using JavaScript).
     -   Specifying `type` attributes in these contexts is not necessary as HTML5 implies `text/css` and `text/javascript` as defaults.
 -   ### 3.2 HTML Format
-    -   #### 3.2.1
+    -   #### 3.2.1 General Formatting
+    -   Use a new line for every block, list, or table element, and indent every such child element.
+    -   Also, indent them if they are child elements of a block, list, or table element.
+    -   #### 3.2.2 Line-Wrapping
+    -   Use soft wrap in your text editor.
+    -   #### 3.2.3 Quotation Marks
+    -   Double quotes.
 
 ## 4 CSS
 -   ### 4.1 CSS Style
+    -   #### 4.1.1 CSS Validity
+    -   Use valid CSS where possible.
+    -   #### 4.1.2 ID and Class Naming
+    -   Use meaningful or generic ID and class names.
+    -   Names that are specific and reflect the purpose of the element should be preferred as these are most understandable and the least likely to change.
+    -   Using functional or generic names reduces the probability of unnecessary document or template changes.
+    -   #### 4.1.3 ID and Class Name Style
+    -   Use ID and class names that are as short as possible but as long as necessary.
+    -   Try to convey what an ID or class is about while being as brief as possible.
+    -   Using ID and class names this way contributes to acceptable levels of understandability and code efficiency.
+    -   #### 4.1.4 Type Selectors
+    -   Avoid qualifying ID and class names with type selectors.
+    -   Unless necessary (for example with helper classes), do not use element names in conjunction with IDs or classes.
+    -   #### 4.1.5 Shorthand Properties
+    -   CSS offers a variety of [shorthand](https://www.w3.org/TR/CSS21/about.html#shorthand) properties (like `font`) that should be used whenever possible, even in cases where only one value is explicitly set.
+    -   #### 4.1.6 0 and Units
+    -   Do not use units after `0` values unless they are required.
+    -   #### 4.1.7 Leading 0s
+    -   Do not put `0`s in front of values or lengths between -1 and 1.
+    -   #### 4.1.8 Hexadecimal Notation
+    -   For color values that permit it, 3 character hexadecimal notation is shorter and more succinct.
+    -   #### 4.1.9 Prefixes
+    -   In large projects as well as for code that gets embedded in other projects or on external sites use prefixes (as namespaces) for ID and class names. Use short, unique identifiers followed by a dash.
+    -   `adw-help {} /* AdWords */`
+    -   #### 4.1.10 ID and Class Name Delimiters
+    -   Separate words in ID and class names by a hyphen.
+    -   Do not concatenate words and abbreviations in selectors by any characters (including none at all) other than hyphens, in order to improve understanding and scannability.
+    - `.ads-sample {}`
+    -   #### 4.1.11 Hacks
+    -   Avoid user agent detection as well as CSS “hacks”—try a different approach first.
+    -   It’s tempting to address styling differences over user agent detection or special CSS filters, workarounds, and hacks. Both approaches should be considered last resort in order to achieve and maintain an efficient and manageable code base. Put another way, giving detection and hacks a free pass will hurt projects in the long run as projects tend to take the way of least resistance. That is, allowing and making it easy to use detection and hacks means using detection and hacks more frequently—and more frequently is too frequently.
 -   ### 4.2 CSS Format
+    -    #### 4.2.1 [Declaration Order][1] and [Grouping][2][3]
+    -   NO ALPHA
+    1.Positioning
+    2.Box model (display, float, width, etc)
+    3.Typography (font, line-height, text-*)
+    4.Visuals (background, border, opacity)
+    5.Misc (CSS3 properties)
+    -   #### 4.2.2
+    -   #### 4.2.3
+    -   #### 4.2.4
+    -   #### 4.2.5
+    -   #### 4.2.6
+    -   #### 4.2.7
+    -   #### 4.2.8
 -   ### 4.3 CSS Meta
 
 ## 5 Notes
+-   ### 5.1
+-   ### 5.2
+    -   #### 5.2.1 [Code Declaration](http://codeguide.co/#css-declaration-order)
+    -   #### 5.2.2[Grouping](https://smacss.com/book/formatting#grouping)
+    -   #### 5.2.3[Property order](https://styleguide.github.com/primer/principles/#property-order)
