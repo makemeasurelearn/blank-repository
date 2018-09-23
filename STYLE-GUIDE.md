@@ -102,13 +102,14 @@
     -   It’s tempting to address styling differences over user agent detection or special CSS filters, workarounds, and hacks. Both approaches should be considered last resort in order to achieve and maintain an efficient and manageable code base. Put another way, giving detection and hacks a free pass will hurt projects in the long run as projects tend to take the way of least resistance. That is, allowing and making it easy to use detection and hacks means using detection and hacks more frequently—and more frequently is too frequently.
 -   ### 4.2 CSS Format
     -   #### 4.2.1 Declaration Order[1](#521-code-declaration) and Grouping[2](#522-grouping)[3](#523-property-order)
+    -   NO ALPHA
 
-        1.NO ALPHA
-        2.Positioning
-        3.Box model (display, float, width, etc)
-        4.Typography (font, line-height, text-*)
-        6.Visuals (background, border, opacity)
-        7.Misc (CSS3 properties)
+1.Positioning
+2.Box model (display, float, width, etc)
+3.Typography (font, line-height, text-*)
+4.Visuals (background, border, opacity)
+5.Misc (CSS3 properties)
+
     -   #### 4.2.2
     -   #### 4.2.3
     -   #### 4.2.4
