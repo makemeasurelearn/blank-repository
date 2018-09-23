@@ -104,8 +104,11 @@
     -   #### 4.2.1 Declaration Order[1](#521-code-declaration) and Grouping[2](#522-grouping)[3](#523-property-order)[3](#524-css-style- guides)
     -   NO ALPHA
     -   1. Positioning
+    -   Positioning comes first because it can remove an element from the normal flow of the document and override box model related styles.
     -   2. Box model (display, float, width, etc)
+    -   The box model comes next as it dictates a component's dimensions and placement.
     -   3. Typography (font, line-height, text-*)
+    -   Everything else takes place inside the component or without impacting the previous two sections, and thus they come last.
     -   4. Visuals (background, border, opacity)
     -   5. Misc (CSS3 properties)
     -   #### 4.2.2 Block Content Indentation
@@ -146,7 +149,7 @@
     -   `.adw-gallery {}`
 
 ## 5 Notes
--   ### 5.1 Be consistent.
+-   ### 5.1 Be consistent and REMEMBER [syntax tag omission](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)
 -   ### 5.2
     -   #### 5.2.1 [Code Declaration](http://codeguide.co/#css-declaration-order)
     -   #### 5.2.2 [Grouping](https://smacss.com/book/formatting#grouping)
