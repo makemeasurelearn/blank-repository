@@ -119,9 +119,9 @@
     -   Always use a single space between the last selector and the opening brace that begins the declaration block.
     -   `#video {`
     -   #### 4.2.6 Selector and Declaration Separation
-    -   `h1,
-h2,
-h3 `
+    -   `h1,`
+    -   `h2,`
+    -   `h3 `
     -   #### 4.2.7
     -   #### 4.2.8
 -   ### 4.3 CSS Meta
