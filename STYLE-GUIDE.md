@@ -103,11 +103,11 @@
 -   ### 4.2 CSS Format
     -   #### 4.2.1 Declaration Order[1](#521-code-declaration) and Grouping[2](#522-grouping)[3](#523-property-order)
     -   NO ALPHA
-      1.Positioning
-      2.Box model (display, float, width, etc)
-      3.Typography (font, line-height, text-*)
-      4.Visuals (background, border, opacity)
-      5.Misc (CSS3 properties)
+        1.Positioning
+        2.Box model (display, float, width, etc)
+        3.Typography (font, line-height, text-*)
+        4.Visuals (background, border, opacity)
+        5.Misc (CSS3 properties)
     -   #### 4.2.2
     -   #### 4.2.3
     -   #### 4.2.4
