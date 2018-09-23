@@ -140,8 +140,8 @@
     -   If possible, group style sheet sections together by using comments. Separate sections with new lines.
 
 ## 5 Notes
--   ### 5.1
--   ### 5.2
+-   ### 5.1 Be consistent.
+-   ### 5.2 
     -   #### 5.2.1 [Code Declaration](http://codeguide.co/#css-declaration-order)
     -   #### 5.2.2 [Grouping](https://smacss.com/book/formatting#grouping)
     -   #### 5.2.3 [Property Order](https://styleguide.github.com/primer/principles/#property-order)
