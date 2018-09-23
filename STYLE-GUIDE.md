@@ -122,9 +122,22 @@
     -   `h1,`
     -   `h2,`
     -   `h3 `
-    -   #### 4.2.7
-    -   #### 4.2.8
+    -   #### 4.2.7 4.2.7 Rule Separation
+    -   Always put a blank line (two line breaks) between rules.
+    -   `html {`
+    -   `background: #fff;`
+    -   `}`
+    -
+    -   `body {`
+    -   `margin: auto;`
+    -   `width: 50%;`
+    -   `}`
+    -   #### 4.2.8 Quotation Marks
+    -   Single not double
 -   ### 4.3 CSS Meta
+    -   #### 4.3.1 Section Comments
+    -   Group sections by a section comment (optional).
+    -   If possible, group style sheet sections together by using comments. Separate sections with new lines.
 
 ## 5 Notes
 -   ### 5.1
