@@ -101,7 +101,7 @@
     -   Avoid user agent detection as well as CSS “hacks”—try a different approach first.
     -   It’s tempting to address styling differences over user agent detection or special CSS filters, workarounds, and hacks. Both approaches should be considered last resort in order to achieve and maintain an efficient and manageable code base. Put another way, giving detection and hacks a free pass will hurt projects in the long run as projects tend to take the way of least resistance. That is, allowing and making it easy to use detection and hacks means using detection and hacks more frequently—and more frequently is too frequently.
 -   ### 4.2 CSS Format
-    -    #### 4.2.1 [Declaration Order][1] and [Grouping][2][3]
+    -    #### 4.2.1 [Declaration Order][1](#521-code-declaration) and [Grouping][2](#522-grouping)[3](#523-property-order)
     -   NO ALPHA
     1.Positioning
     2.Box model (display, float, width, etc)
@@ -121,5 +121,5 @@
 -   ### 5.1
 -   ### 5.2
     -   #### 5.2.1 [Code Declaration](http://codeguide.co/#css-declaration-order)
-    -   #### 5.2.2[Grouping](https://smacss.com/book/formatting#grouping)
-    -   #### 5.2.3[Property order](https://styleguide.github.com/primer/principles/#property-order)
+    -   #### 5.2.2 [Grouping](https://smacss.com/book/formatting#grouping)
+    -   #### 5.2.3 [Property Order](https://styleguide.github.com/primer/principles/#property-order)
