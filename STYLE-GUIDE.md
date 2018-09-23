@@ -108,11 +108,20 @@
     -   3. Typography (font, line-height, text-*)
     -   4. Visuals (background, border, opacity)
     -   5. Misc (CSS3 properties)
-    -   #### 4.2.2
-    -   #### 4.2.3
-    -   #### 4.2.4
-    -   #### 4.2.5
-    -   #### 4.2.6
+    -   #### 4.2.2 Block Content Indentation
+    -   Indent all block content.
+    -   #### 4.2.3 Declaration Stops
+    -   Use a semicolon after every declaration.
+    -   #### 4.2.4 Property Name Stops
+    -   Use a space after a property name’s colon.
+    -   `font-weight: bold;`
+    -   #### 4.2.5 Declaration Block Separation
+    -   Always use a single space between the last selector and the opening brace that begins the declaration block.
+    -   `#video {`
+    -   #### 4.2.6 Selector and Declaration Separation
+    -   `h1,
+h2,
+h3 `
     -   #### 4.2.7
     -   #### 4.2.8
 -   ### 4.3 CSS Meta
