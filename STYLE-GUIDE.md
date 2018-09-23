@@ -3,7 +3,7 @@
 ## Contents
 _______________________________________________________________________________
 
-##### [About](1 About) | [General](2 General) | [HTML](3 HTML) | [CSS](4 CSS) | [Notes](5 Notes)
+##### [1 About](1 About) | [2 General](2 General) | [3 HTML](3 HTML) | [4 CSS](4 CSS) | [5 Notes](5 Notes)
 _______________________________________________________________________________
 
 ## 1 About
