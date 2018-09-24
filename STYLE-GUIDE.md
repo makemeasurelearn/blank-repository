@@ -162,6 +162,7 @@
 
 **Margins and gutters are flexible and don’t need to be of equal size.*
 
+
     -   #### 4.3.2 Material Columns
     -   Content is placed in the areas of the screen that contain columns.
     -   Column width is defined using percentages, rather than fixed values, to allow content to flexibly adapt to any screen size. The number of columns displayed in the grid is determined by the breakpoint range (a range of predetermined screen sizes) at which a screen is viewed, whether it’s a breakpoint for mobile, tablet, or another size.
