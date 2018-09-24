@@ -137,7 +137,7 @@
     -   `}`
     -   #### 4.2.8 Quotation Marks
     -   Single not double
-    -   #### 4.2.9 [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
+    -   #### 4.2.9 [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints) `TODO`
     -   Material Design provides responsive layouts based on the following column structures. Layouts using 4-column, 8-column, and 12-column grids are available for use across different screens, devices, and orientations.
     -   Each breakpoint range determines the number of columns, and recommended margins and gutters, for each display size.
 
