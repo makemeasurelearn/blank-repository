@@ -137,7 +137,8 @@
     -   `}`
     -   #### 4.2.8 Quotation Marks
     -   Single not double
-    -   #### 4.2.9 [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints) `TODO`
+    -   #### 4.3 [Material Design](https://material.io/)
+    -   #### 4.3.1 Material Design [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints) `TODO`
     -   Material Design provides responsive layouts based on the following column structures. Layouts using 4-column, 8-column, and 12-column grids are available for use across different screens, devices, and orientations.
     -   Each breakpoint range determines the number of columns, and recommended margins and gutters, for each display size.
 
@@ -160,9 +161,22 @@
 |        |        |        |        |        |        |
 
 **Margins and gutters are flexible and don’t need to be of equal size.*
+    -   #### 4.3.2 Material Columns
+    -   Content is placed in the areas of the screen that contain columns.
+    -   Column width is defined using percentages, rather than fixed values, to allow content to flexibly adapt to any screen size. The number of columns displayed in the grid is determined by the breakpoint range (a range of predetermined screen sizes) at which a screen is viewed, whether it’s a breakpoint for mobile, tablet, or another size.
+    -   #### 4.3.3 Material Gutters
+    -   Gutters are the spaces between columns. They help separate content.
+    -   Gutter widths are fixed values at each breakpoint range. To better adapt to the screen, gutter width can change at different breakpoints. Wider gutters are more appropriate for larger screens, as they create more whitespace between columns.
+    -   #### 4.3.4 Material Margins
+    -   Margins are the space between content and the left and right edges of the screen.
+    -   Margin widths are defined as fixed values at each breakpoint range. To better adapt to the screen, the margin width can change at different breakpoints. Wider margins are more appropriate for larger screens, as they create more whitespace around the perimeter of content.
+    -   #### Material Horizontal Grids
+    -   The Material Design layout grid can be customized for touch UIs that scroll horizontally. Columns, gutters, and margins are laid out from left to right, rather than top to bottom. The height of the screen determines the number of columns in a horizontal grid.
+    -   Horizontally scrolling UIs are uncommon on non-touch and web platforms.
+    -   Horizontal grids can be positioned to accommodate different heights, allowing space for app bars or other UI regions at the top.
 
--   ### 4.3 CSS Meta
-    -   #### 4.3.1 Section Comments
+-   ### 4.4 CSS Meta
+    -   #### 4.4.1 Section Comments
     -   Group sections by a section comment (optional).
     -   If possible, group style sheet sections together by using comments. Separate sections with new lines.
     -   `/* Header */`
