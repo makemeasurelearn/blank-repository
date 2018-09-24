@@ -101,7 +101,7 @@
     -   Avoid user agent detection as well as CSS “hacks”—try a different approach first.
     -   It’s tempting to address styling differences over user agent detection or special CSS filters, workarounds, and hacks. Both approaches should be considered last resort in order to achieve and maintain an efficient and manageable code base. Put another way, giving detection and hacks a free pass will hurt projects in the long run as projects tend to take the way of least resistance. That is, allowing and making it easy to use detection and hacks means using detection and hacks more frequently—and more frequently is too frequently.
 -   ### 4.2 CSS Format
-    -   #### 4.2.1 Declaration Order[1](#521-code-declaration) and Grouping[2](#522-grouping)[3](#523-property-order)[3](#524-css-style- guides)
+    -   #### 4.2.1 Declaration Order[1](#521-code-declaration) and Grouping[2](#522-grouping)[3](#523-property-order)[4](#524-css-style- guides)
     -   NO ALPHA
     -   1. Positioning
     -   Positioning comes first because it can remove an element from the normal flow of the document and override box model related styles.
