@@ -138,26 +138,28 @@
     -   #### 4.2.8 Quotation Marks
     -   Single not double
     -   #### 4.2.9 [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
+    -   Material Design provides responsive layouts based on the following column structures. Layouts using 4-column, 8-column, and 12-column grids are available for use across different screens, devices, and orientations.
+    -   Each breakpoint range determines the number of columns, and recommended margins and gutters, for each display size.
 
 | Breakpoint Range (dp) | Portrait | Landscape | Window | Columns | Margins / Gutters* |
 |--------|--------|--------|--------|--------|--------|
-| 0 – 359 |        |        |        |        |        |
-| 360 – 399 |        |        |        |        |        |
-| 400 – 479 |        |        |        |        |        |
-| 480 – 599 |        |        |        |        |        |
-| 600 – 719 |        |        |        |        |        |
-| 720 – 839 |        |        |        |        |        |
-| 840 – 959 |        |        |        |        |        |
-| 960 – 1023 |        |        |        |        |        |
-| 1024 – 1279 |        |        |        |        |        |
-| 1280 – 1439 |        |        |        |        |        |
-| 1440 – 1599 |        |        |        |        |        |
-| 1600 – 1919 |        |        |        |        |        |
-| 1920 + |        |        |        |        |        |
+| 0 – 359 |        |        |        |    4   |   16   |
+| 360 – 399 |        |        |        |   4    |   16   |
+| 400 – 479 |        |        |        |    4   |   16   |
+| 480 – 599 |        |        |        |    4   |   16   |
+| 600 – 719 |        |        |        |    8   |   16   |
+| 720 – 839 |        |        |        |    8   |   24   |
+| 840 – 959 |        |        |        |    12  |   24   |
+| 960 – 1023 |        |        |        |   12   |   24   |
+| 1024 – 1279 |        |        |        |  12    |  24    |
+| 1280 – 1439 |        |        |        |  12    |  24    |
+| 1440 – 1599 |        |        |        |  12    |  24    |
+| 1600 – 1919 |        |        |        |  12    |  24    |
+| 1920 + |        |        |        |   12   |   24   |
 |        |        |        |        |        |        |
 |        |        |        |        |        |        |
 
-* *Margins and gutters are flexible and don’t need to be of equal size. *
+**Margins and gutters are flexible and don’t need to be of equal size.*
 
 -   ### 4.3 CSS Meta
     -   #### 4.3.1 Section Comments
