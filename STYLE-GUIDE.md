@@ -139,10 +139,25 @@
     -   Single not double
     -   #### 4.2.9 [Responsive Grid Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
 
-| header | header | header | header | header | header |
+| Breakpoint Range (dp) | Portrait | Landscape | Window | Columns | Margins / Gutters* |
 |--------|--------|--------|--------|--------|--------|
 |        |        |        |        |        |        |
 |        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+|        |        |        |        |        |        |
+
+* *Margins and gutters are flexible and don’t need to be of equal size. *
 
 -   ### 4.3 CSS Meta
     -   #### 4.3.1 Section Comments
