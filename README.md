@@ -1,26 +1,26 @@
 # Read Me
 
-## Contents                                                                                                            
-##### [About](#about-rewind) | [Who](#who-rewind) | [What](#what-rewind) | [Where](#where-rewind) | [Why](#why-rewind) | [How](#how-rewind)
+## Contents
+##### [About](#about-) | [Who](#who-) | [What](#what-) | [Where](#where-) | [Why](#why-) | [How](#how-)
 
-#### [Notes](#notes-rewind)
+#### [Notes](#notes-)
 
-##### [Note 1](#note-1-rewind) | [Note 2](#note-2-rewind)
+##### [Note 1](#note-1-) | [Note 2](#note-2-)
 
-#### [Appendix](#appendix-rewind)                                                                                      
-##### [.gitattributes](#gitattributes-rewind) | [.gitignore](#gitignore-rewind) | [.exclude](#exclude-rewind)
+#### [Appendix](#appendix-)
+##### [.gitattributes](#gitattributes-) | [.gitignore](#gitignore-) | [.exclude](#exclude-)
 
-### [Credits](#credits-rewind)
+### [Credits](#credits-)
 -----------------------------------------------------------------------------------------------------------------------
-## About [:rewind:](#read-me)
+## About [≪](#read-me)
 
 This is a starter repo.
 
-### Who [:rewind:](#read-me)
+### Who [≪](#read-me)
 
 Your Mom's blank repo.
 
-### What [:rewind:](#read-me)
+### What [≪](#read-me)
 
 Blank repo.
 
@@ -30,28 +30,28 @@ Blank repo.
   - [ ] D
 - [ ] E
 
-### Where [:rewind:](#read-me)
+### Where [≪](#read-me)
 
 Blank
 
-### Why [:rewind:](#read-me)
+### Why [≪](#read-me)
 
 Blank
 
-### How [:rewind:](#read-me)
+### How [≪](#read-me)
 
 ________________________________________________________________________________
-## Notes [:rewind:](#read-me)
+## Notes [≪](#read-me)
 
-### Note 1 [:rewind:](#read-me)
+### Note 1 [≪](#read-me)
 
 
-### Note 2 [:rewind:](#read-me)
+### Note 2 [≪](#read-me)
 
 ________________________________________________________________________________
-## Appendix [:rewind:](#read-me)
+## Appendix [≪](#read-me)
 
-### .gitattributes [:rewind:](#read-me)
+### .gitattributes [≪](#read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -65,14 +65,14 @@ codesniffer.ruleset.xml export-ignore
 
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
-### .gitignore [:rewind:](#read-me)
+### .gitignore [≪](#read-me)
 
 
-### .exclude [:rewind:](#read-me)
+### .exclude [≪](#read-me)
 
 ________________________________________________________________________________
 
-### Credits [:rewind:](#read-me)
+### Credits [≪](#read-me)
 
 Third party resources applied in this repo. Each resource uses a GPL compatible license. The resources are listed according to each individual license, as noted, and have links where applicable.
 
