@@ -1,17 +1,21 @@
 # Read Me
 
 ## Contents
-##### [About](#about-) | [Who](#who-) | [What](#what-) | [Where](#where-) | [Why](#why-) | [How](#how-)
+
+##### [About](#about-) \| [Who](#who-) \| [What](#what-) \| [Where](#where-) \| [Why](#why-) \| [How](#how-)
 
 #### [Notes](#notes-)
 
-##### [Note 1](#note-1-) | [Note 2](#note-2-)
+##### [Note 1](#note-1-) \| [Note 2](#note-2-)
 
 #### [Appendix](#appendix-)
-##### [.gitattributes](#gitattributes-) | [.gitignore](#gitignore-) | [.exclude](#exclude-)
+
+##### [.gitattributes](#gitattributes-) \| [.gitignore](#gitignore-) \| [.exclude](#exclude-)
 
 ### [Credits](#credits-)
------------------------------------------------------------------------------------------------------------------------
+
+* * *
+
 ## About [≪](#read-me)
 
 This is a starter repo.
@@ -24,11 +28,11 @@ Your Mom's blank repo.
 
 Blank repo.
 
-- [x] A
-- [ ] B
-  - [ ] C
-  - [ ] D
-- [ ] E
+-   [x] A
+-   [ ] B
+    -   [ ] C
+    -   [ ] D
+-   [ ] E
 
 ### Where [≪](#read-me)
 
@@ -40,15 +44,16 @@ Blank
 
 ### How [≪](#read-me)
 
-________________________________________________________________________________
+* * *
+
 ## Notes [≪](#read-me)
 
 ### Note 1 [≪](#read-me)
 
-
 ### Note 2 [≪](#read-me)
 
-________________________________________________________________________________
+* * *
+
 ## Appendix [≪](#read-me)
 
 ### .gitattributes [≪](#read-me)
@@ -63,18 +68,17 @@ ________________________________________________________________________________
 codesniffer.ruleset.xml export-ignore
 ```
 
-https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository
+<https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository>
 
 ### .gitignore [≪](#read-me)
 
-
 ### .exclude [≪](#read-me)
 
-________________________________________________________________________________
+* * *
 
 ### Credits [≪](#read-me)
 
 Third party resources applied in this repo. Each resource uses a GPL compatible license. The resources are listed according to each individual license, as noted, and have links where applicable.
 
-*
-  *
+\*
+  \*
